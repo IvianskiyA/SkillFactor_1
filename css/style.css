@@ -214,12 +214,13 @@ html, body
 	letter-spacing: 0.22px;
 	text-transform: uppercase;
 	color: #000000;	
+	flex-wrap: wrap;
 }
 
 .productpoints>li 
 {
 	display: inline-block;
-	margin: 0 auto;
+	margin: 0 15px 0px 15px;
 }
 
 .productpoints>li>a 
